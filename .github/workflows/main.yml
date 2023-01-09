@@ -17,5 +17,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/giddi-shravyagiddi-shravya/SonarCloud
-            azure-pipeline-name: 'Sonar Azure'
+            azure-pipeline-name: 'SonarCloud (5)'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
