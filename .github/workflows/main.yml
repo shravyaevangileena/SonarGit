@@ -1,5 +1,5 @@
 name: CI
-# edited in developer
+# edited in feature
 on:
   push:
     branches:
